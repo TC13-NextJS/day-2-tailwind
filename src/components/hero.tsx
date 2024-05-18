@@ -4,7 +4,7 @@ import { Button } from "./ui/button";
 
 function Hero() {
   return (
-    <section className="container flex items-center justify-between my-40">
+    <section className="container my-40 flex items-center justify-between">
       <div>
         <div className="mb-7 flex flex-col gap-2">
           <h2 className="text-7xl font-bold tracking-wide">I'm Auzan</h2>
